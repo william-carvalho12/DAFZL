@@ -12,7 +12,7 @@ require_once("header.php")
       </div>
     </section>
     <!-- /section intro -->
-    
+    <!--
     <section id="content">
       <div class="container">
 
@@ -20,7 +20,7 @@ require_once("header.php")
         <div class="row">
           <div class="span12">
             <div class="row">
-            <!--
+            
               <div class="span3">
                 <div class="box aligncenter">
                   <div class="icon">
@@ -87,7 +87,7 @@ require_once("header.php")
           </div>
         </div>
 
-      -->
+      
         <div class="row">
           <div class="span12">
             <div class="cta-box">
@@ -109,10 +109,10 @@ require_once("header.php")
             </div>
           </div>
         </div>
-
+       
       </div>
     </section>
-    <!--
+    
     <section id="offer">
       <div class="container">
         <div class="row">

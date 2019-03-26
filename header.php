@@ -35,17 +35,14 @@
         <div class="container">
           <div class="row">
             <div class="span6">
-              <ul class="topmenu">
-                <li><a href="index.php">Home</a> &#47;</li>
-                <li><a href="#">Estatuto</a> &#47;</li>
-              </ul>
+                OWLS - Diretório Acadêmico da FATEC Zona Leste 
             </div>
             <div class="span6">
 
               <ul class="social-network">
-                <li><a href="#" data-placement="bottom" title="Facebook"><i class="icon-circled icon-bglight icon-facebook"></i></a></li>
+                <li><a href="https://www.facebook.com/dafzl/" data-placement="bottom" title="Facebook"><i class="icon-circled icon-bglight icon-facebook"></i></a></li>
                 <li><a href="#" data-placement="bottom" title="Twitter"><i class="icon-circled icon-bglight icon-twitter"></i></a></li>
-                <li><a href="#" data-placement="bottom" title="Linkedin"><i class="icon-circled icon-linkedin icon-bglight"></i></a></li>
+                <li><a href="https://www.linkedin.com/company/dafzl/" data-placement="bottom" title="Linkedin"><i class="icon-circled icon-linkedin icon-bglight"></i></a></li>
               </ul>
 
             </div>
@@ -58,7 +55,7 @@
         <div class="row nomargin">
           <div class="span4">
             <div class="logo">
-              <h1><a><img src="img/logo.gif">DAFZL</a></h1>
+              <h1><a>Diretório Acadêmico</a></h1>
             </div>
           </div>
           <div class="span8">
@@ -72,9 +69,11 @@
                     <li class="dropdown">
                       <a href="about.php">Sobre nós</a>
                     </li>
+                    <!--
                     <li class="dropdown">
                       <a href="/ead">EAD</a>
                     </li>
+                    -->
                     <li class="dropdown">
                       <a href="http://atleticazonaleste.wixsite.com/atleticafateczl/sobre-nos">Atlética</a>
                     </li>
@@ -88,7 +87,7 @@
                       </ul>
                     </li>
                     <li>
-                      <a href="contact.html">Contato </a>
+                      <a href="contact.php">Contato </a>
                     </li>
                   </ul>
                 </nav>
